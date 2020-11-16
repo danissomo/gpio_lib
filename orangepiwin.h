@@ -1,0 +1,1 @@
+#define ORANGE_PI_WIN
