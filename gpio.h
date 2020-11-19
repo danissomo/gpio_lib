@@ -1,6 +1,9 @@
 #define OUTPUT 1
 #define INPUT 0
 
+#define GPIO_SET 1
+#define GPIO_RESET 0
+
 #define EXPORT_DIR "/sys/class/gpio/export"
 #define UNEXPORT_DIR "/sys/class/gpio/unexport"
 #define GPIO_DIR_MODE "/sys/class/gpio/gpio%d/direction"
