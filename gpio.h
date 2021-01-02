@@ -113,3 +113,7 @@ const int pinouts[] = {
 };
 
 #endif
+
+#ifdef OMEGA2
+
+#endif
