@@ -1,0 +1,1 @@
+#define OMEGA2
